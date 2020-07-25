@@ -2,10 +2,7 @@
 Video Feed Android app using Kotlin and MVVM architecture
 
 # Used Libraries
-Exoplayer 2
-Piccaso
-RxJava
-Retrofit
+Exoplayer 2,Piccaso ,RxJava ,Retrofit , Room
 
 # ScreenShot:
 <p align="center">
